@@ -1,1 +1,1 @@
-# Week1-git
+This repo was made as a part of the first week of the training 
